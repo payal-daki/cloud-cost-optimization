@@ -2,7 +2,7 @@
 # 🌩️ Cloud Cost Optimizer 🌩️
 
 ## Project Description 📜
-This project aims to optimize cloud costs by identifying and deleting stale resources such as unused EBS snapshots and forgotten S3 buckets. We'll use AWS Lambda, SNS, and CloudWatch to automate this process.
+This project aims to optimize cloud costs by identifying and deleting stale resources such as unused EBS snapshots and forgotten S3 buckets. We'll use AWS Lambda, and CloudWatch to automate this process.
 
 ## Table of Contents 📑
 - [Introduction](#introduction)
@@ -130,7 +130,7 @@ def lambda_handler(event, context):
 7. Click **Configure details**, provide a name and description, and click **Create rule**.
 
 ## Conclusion 🎉
-By following these steps, you can efficiently manage cloud costs by identifying and deleting stale resources using AWS Lambda, SNS, and CloudWatch. This automated approach ensures you only pay for the resources you actively use.
+By following these steps, you can efficiently manage cloud costs by identifying and deleting stale resources using AWS Lambda, and CloudWatch. This automated approach ensures you only pay for the resources you actively use.
 
 
 
