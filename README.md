@@ -2,7 +2,7 @@
 # 🌩️ Cloud Cost Optimizer 🌩️
 
 ## Project Description 📜
-This project aims to optimize cloud costs by identifying and deleting stale resources such as unused EBS snapshots and forgotten S3 buckets. We'll use AWS Lambda, and CloudWatch to automate this process.
+This project aims to optimize cloud costs by identifying and deleting stale resources such as unused EBS snapshots. We'll use AWS Lambda, and CloudWatch to automate this process.
 
 ## Table of Contents 📑
 - [Introduction](#introduction)
