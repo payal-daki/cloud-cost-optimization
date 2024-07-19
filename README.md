@@ -1,6 +1,3 @@
-Certainly! Here's the updated README file with detailed steps for creating an EC2 instance and snapshot, as well as information on setting up the necessary AWS services for this project:
-
----
 
 # 🌩️ Cloud Cost Optimizer 🌩️
 
@@ -134,6 +131,5 @@ def lambda_handler(event, context):
 ## Conclusion 🎉
 By following these steps, you can efficiently manage cloud costs by identifying and deleting stale resources using AWS Lambda, SNS, and CloudWatch. This automated approach ensures you only pay for the resources you actively use.
 
----
 
-Feel free to further customize this README to fit your project's specifics!
+
