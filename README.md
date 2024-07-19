@@ -27,9 +27,10 @@ Cloud cost optimization is crucial to avoid unnecessary expenses. This project a
    - An S3 bucket created for temporary use might be forgotten, leading to ongoing storage costs.
 
 ## Solution Overview 🛠️
-In this project, we use two approaches to manage cloud costs:
 1. **Notifications**: Use AWS SNS to notify users about unused resources.
 2. **Automated Deletion**: Use AWS Lambda to automatically delete stale resources.
+
+In this project, we use 2 approaches to manage cloud costs:
 
 ## Project Setup 🏗️
 
